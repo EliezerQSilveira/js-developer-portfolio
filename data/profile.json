@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Eliezer Silveira",
+  "photo": "./assets/img/profile-eliezer.jpg",
+  "job": "Desenvolvedor Front-end",
+  "location": "São Leopoldo - RS",
+  "phone": "(51) 981095335",
+  "email": "dev.eliezer@hotmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -13,11 +13,11 @@
       },
       {
         "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/js.png"
       },
       {
         "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/git.png"
       },
       {
         "name": "React",
@@ -25,54 +25,47 @@
       },
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/css.png"
       },
       {
         "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/github.png"
       }
     ],
     "softSkills": [
-      "Empatia",
-      "Liderança",
+      "Resolução de problemas",
+      "Comunicação clara e objetiva",
       "Trabalho em equipe",
-      "Flexibilidade",
+      "Persistência",
       "Organização"
     ]
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (básico)"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Site oficial do estúdio Tchê Tattoo, com foco em arte urbana, cultura gaúcha e identidade rústico-moderna. Desenvolvido em HTML, CSS e JavaScript puro.",
+      "url": "https://github.com/EliezerQSilveira/tche-tatto",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Projeto criado para entrega de desafio do bootcamp da Dio, parceria com o Santander Open Academy. Consiste em criar meu portfólio apresentando projetos reais com design moderno, responsivo e funcionalidades aplicadas a negócios diversos.",
+      "url": "https://github.com/EliezerQSilveira/Meu-portfolio-projeto-DIO",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Representação comercial",
+      "period": "2015 - até o momento",
+      "description": "Atuo como representante comercial a quase 10 anos, com experiência consolidada no atendimento B2B."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Operador de máquina de controle numérico computadorizado",
+      "period": "2013 - 2015",
+      "description": "Operava máquinas CNC realizando usinagem precisa conforme desenhos técnicos e parâmetros de programação."
     }
   ]
 }
